@@ -1,4 +1,5 @@
 # tugas_pertemuan_2
+- Aziz Fatih Fauzi / 123200070
 
 A new Flutter project.
 
